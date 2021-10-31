@@ -1,5 +1,7 @@
 # Spoke-assessment Server
 
+## API Doc - https://spoke-assessment-karo.herokuapp.com/api/v1/docs/
+
 ## Environment Setup
 
 The following needs to be available for the Application to run.
@@ -9,7 +11,11 @@ The following needs to be available for the Application to run.
 
 ## Getting the App Locally
 
-1. Clone this repository
+1. Clone this repository with this command
+```bash
+git clone git@github.com:Okprime/spoke-assessment.git
+```
+
 
 2. Install dependencies with this command
 ```bash
